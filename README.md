@@ -119,6 +119,13 @@ Two blockers exist for EU production deployment :
 
 ---
 
+## Dashboard
+
+Interactive dashboard available on Tableau Public :
+[The Underbanked Opportunity — Credit Scoring Dashboard](https://public.tableau.com/app/profile/arvind.bajolah/viz/TheUnderbankedOpportunityCreditScoringDashboard/Tableaudebord1)
+
+---
+
 ## Reproduce
 ```bash
 git clone https://github.com/ArvindB75/home-credit-business-scoring
