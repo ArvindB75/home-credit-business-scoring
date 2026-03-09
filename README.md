@@ -1,4 +1,4 @@
-# Home Credit Default Risk — Business Scoring Model
+# The Underbanked Opportunity: What Alternative Data Reveals About Hidden Good Risks in Credit Scoring
 
 A credit scoring model for underbanked populations, built on the
 [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
