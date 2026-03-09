@@ -1,0 +1,4 @@
+segment,client_count,actual_default_rate,gross_revenue,expected_loss,net_revenue,missed_if_refused
+Good Risk / Underbanked,6125,3.6,890589026,119222092,771366934,890589026
+Tier 4 High Risk,9619,23.5,0,0,0,0
+Overall Portfolio,61503,8.1,0,0,0,0
